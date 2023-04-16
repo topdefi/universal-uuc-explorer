@@ -1666,7 +1666,7 @@ fixed menu hovers in dark mode desktop view
 
 ### Features
 
-- [#2433](https://github.com/blockscout/blockscout/pull/2433) - Add a functionality to try Eth RPC methods in the documentation
+- [#2433](https://github.com/blockscout/blockscout/pull/2433) - Add a functionality to try UUC RPC methods in the documentation
 - [#2529](https://github.com/blockscout/blockscout/pull/2529) - show both eth value and token transfers on transaction overview page
 - [#2376](https://github.com/blockscout/blockscout/pull/2376) - Split API and WebApp routes
 - [#2477](https://github.com/blockscout/blockscout/pull/2477) - aggregate token transfers on transaction page
@@ -1774,7 +1774,7 @@ fixed menu hovers in dark mode desktop view
 - [#2422](https://github.com/blockscout/blockscout/pull/2422) - check if address_id is binary in token_transfers_csv endpoint
 - [#2418](https://github.com/blockscout/blockscout/pull/2418) - Remove parentheses in market cap percentage
 - [#2401](https://github.com/blockscout/blockscout/pull/2401) - add ENV vars to manage updating period of average block time and market history cache
-- [#2363](https://github.com/blockscout/blockscout/pull/2363) - add parameters example for eth rpc
+- [#2363](https://github.com/blockscout/blockscout/pull/2363) - add parameters example for UUC RPC
 - [#2342](https://github.com/blockscout/blockscout/pull/2342) - Upgrade Postgres image version in Docker setup
 - [#2325](https://github.com/blockscout/blockscout/pull/2325) - Reduce function input to address' hash only where possible
 - [#2323](https://github.com/blockscout/blockscout/pull/2323) - Group Explorer caches
@@ -1856,7 +1856,7 @@ fixed menu hovers in dark mode desktop view
 - [#2196](https://github.com/blockscout/blockscout/pull/2196) - Nethermind client fixes
 - [#2237](https://github.com/blockscout/blockscout/pull/2237) - fix rsk total_supply
 - [#2198](https://github.com/blockscout/blockscout/pull/2198) - reduce transaction status and error constraint
-- [#2167](https://github.com/blockscout/blockscout/pull/2167) - feat: document eth rpc api mimicking endpoints
+- [#2167](https://github.com/blockscout/blockscout/pull/2167) - feat: document UUC RPC api mimicking endpoints
 - [#2225](https://github.com/blockscout/blockscout/pull/2225) - fix metadata decoding in Solidity 0.5.9 smart contract verification
 - [#2204](https://github.com/blockscout/blockscout/pull/2204) - fix large contract verification
 - [#2258](https://github.com/blockscout/blockscout/pull/2258) - reduce BlocksTransactionsMismatch memory footprint
