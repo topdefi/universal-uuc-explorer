@@ -10,7 +10,7 @@ defmodule BlockScoutWeb.LayoutView do
   @default_other_networks [
     %{
       title: "Mainnet",
-      url: "https://mainnet.universalunitcoin.com"
+      url: "https://explorer.universalunitcoin.com"
     },
     %{
       title: "Testnet",
